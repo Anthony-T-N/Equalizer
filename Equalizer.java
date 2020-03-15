@@ -14,6 +14,10 @@ public class Equalizer
 			int key3 = randomGenerator.nextInt(100);
 			System.out.println(key1+" "+key2+" "+key3);
 			tries++;
+			if (key2 == key1 && key1 == key3)
+			{
+			}
+			
 		}
   	}	
   
