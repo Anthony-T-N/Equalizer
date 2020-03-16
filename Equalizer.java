@@ -16,6 +16,9 @@ public class Equalizer
 			tries++;
 			if (key2 == key1 && key1 == key3)
 			{
+				dialswitch = false;
+				System.out.println(key1+" == "+key2+" == "+key3);
+				System.out.println("Took "+tries+ " tries");
 			}
 			
 		}
