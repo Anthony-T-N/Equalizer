@@ -20,8 +20,6 @@ public class Equalizer
 				System.out.println(key1+" == "+key2+" == "+key3);
 				System.out.println("Took "+tries+ " tries");
 			}
-			
 		}
   	}	
-  
 }
