@@ -5,3 +5,5 @@
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Anthony-T-N/Equalizer)
 
 # Equalizer
+
+Playing around with random number generating.
