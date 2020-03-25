@@ -7,3 +7,4 @@
 # Equalizer
 
 Playing around with random number generating.
+Constantly generating three random numbers until all three match.
